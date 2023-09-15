@@ -1,0 +1,24 @@
+{
+  "name": "physix",
+  "version": "0.0.1",
+  "description": "A physics and unit converter library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpenfold/physix.git"
+  },
+  "keywords": [
+    "physics",
+    "units",
+    "converter"
+  ],
+  "author": "Ryan Penfold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpenfold/physix/issues"
+  },
+  "homepage": "https://github.com/rpenfold/physix#readme"
+}
